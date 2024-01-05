@@ -1,0 +1,14 @@
+.output-massage{
+    position: relative;
+    padding: 10px 10px 5px;
+    width: 100%;
+    display: block;
+    align-items: end;
+    color: #fff;
+}
+.h2{
+    font-family: "Open Sans";
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+}
